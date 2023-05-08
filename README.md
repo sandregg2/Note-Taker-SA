@@ -13,3 +13,4 @@
 - https://note-taker-sa.herokuapp.com/
 
 ## Screenshots of deployment 
+https://github.com/sandregg2/Note-Taker-SA/blob/main/screenshots/screenshot1.png
