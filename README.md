@@ -13,4 +13,4 @@
 - https://note-taker-sa.herokuapp.com/
 
 ## Screenshots of deployment 
-<img "https://github.com/sandregg2/Note-Taker-SA/blob/main/screenshots/screenshot1.png">
+<img width="500" alt="screenshot1" src="https://github.com/sandregg2/Note-Taker-SA/blob/main/screenshots/screenshot1.png">
