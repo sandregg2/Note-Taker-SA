@@ -1,0 +1,34 @@
+{
+  "notes": [
+    {
+      "title": "Welcome",
+      "text": "This app allows you to add notes. You can add notes by clicking the pencil icon",
+      "id": "0"
+    },
+    {
+      "title": "Example Note",
+      "text": "This is an example note. You can edit this note by clicking the pencil icon",
+      "id": "1"
+    },
+    {
+      "title": "Example Note",
+      "text": "This is an example note. You can edit this note by clicking the pencil icon",
+      "id": "2"
+    },
+    {
+      "title": "Example Note",
+      "text": "This is an example note. You can edit this note by clicking the pencil icon",
+      "id": "3"
+    },
+    {
+      "title": "Example Note",
+      "text": "This is an example note. You can edit this note by clicking the pencil icon",
+      "id": "4"
+    },
+    {
+      "title": "Example Note",
+      "text": "This is an example note. You can edit this note by clicking the pencil icon",
+      "id": "5"
+    }
+  ]
+}
