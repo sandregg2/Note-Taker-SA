@@ -6,7 +6,10 @@
 ## Table of Contents
 * [Usage](#usage)
 * [Heroku live deployment](#heroku-live-deployment)
-* [Screenshots of deployment](#Screenshot-from-demo)
+* [Screenshots of deployment](#Screenshots-of-deployment)
+## Usage
 
 ## Heroku live deployment
 - https://note-taker-sa.herokuapp.com/
+
+## Screenshots of deployment 
